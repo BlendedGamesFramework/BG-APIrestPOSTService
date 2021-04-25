@@ -1,7 +1,7 @@
 language: node_js
 env:
   global:
-    - CC_TEST_REPORTER_ID=c83698957e25d9f93436d6a1b0dedc982279025e4b3be4cca8810b3c55f9fae0
+    - CC_TEST_REPORTER_ID=f676c33a6a1af6edf5c34f7bdb92912e20cb2612600aa7ad2874e66aa1536bff
 matrix:
   include:
   - node_js: '12'
